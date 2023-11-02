@@ -1,0 +1,46 @@
+.kontainer {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.kotak-biru {
+  background-color: #19376D;
+  width: 65%;
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  font-size: 250%;
+  padding: 60px;
+}
+
+.kotak-biru p {
+  font-size: 80%;
+}
+
+.kotak-putih {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  height: 100vh;
+  position: absolute;
+  right: 0;
+}
+
+.login-form {
+  border: 4px solid #19376D;
+  border-radius: 3%;
+  padding: 100px;
+}
+
+.login-form {
+  max-width: 500px;
+}
+
+.login-form-button {
+  width: 100%;
+}

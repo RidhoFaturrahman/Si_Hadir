@@ -1,0 +1,38 @@
+body {
+    background-color: #EEF0F2;
+    z-index: 1;
+}
+
+.Content {
+    background-color: #ffffff;
+}
+
+.Home {
+    background-color: #EEF0F2;
+    padding: 0 35px;
+}
+
+
+.white-box {
+    position: fixed;
+    top: 6%;
+    left: 12%;
+    width: 86%;
+    height: 14%;
+    background-color: #ffffff;
+    z-index: 0;
+    font-size: 23px;
+    padding: 20px 40px 0;
+    text-align: justify;
+}
+
+
+.white-box3 {
+    position: fixed;
+    top: 22%;
+    left: 12%;
+    width: 86%;
+    height: 77%;
+    background-color: #ffffff;
+    z-index: 0;
+}
